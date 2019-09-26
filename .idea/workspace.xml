@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aa74027-790f-421c-8b6e-5affae1a91b2" name="Default Changelist" comment="Вніс зміни">
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="5aa74027-790f-421c-8b6e-5affae1a91b2" name="Default Changelist" comment="Zminu 3">
+      <change afterPath="$PROJECT_DIR$/Instagram_Rounded_icon-icons.com_61576.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twitter_Rounded_icon-icons.com_61577.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devices-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropbox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fb_icon-icons.com_65434.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features-icon-canvas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features-icon-compass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features-icon-ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features-icon-world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/future-city1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iphone-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo-alt-w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo-customer-7-w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo-1479243396208-be1751535cdb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spacial-devices.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spacial-download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spacial-location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spacial-settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stripe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,24 +44,21 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="14" column="113" selection-start-line="14" selection-start-column="113" selection-end-line="14" selection-end-column="113" />
-              <folding>
-                <element signature="e#2196#2201#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="438">
+              <caret line="263" column="101" selection-start-line="263" selection-start-column="101" selection-end-line="263" selection-end-column="101" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-887">
-              <caret line="208" selection-start-line="208" selection-end-line="208" />
+            <state relative-caret-position="731">
+              <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -56,8 +79,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -121,7 +144,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569491129045</updated>
-      <workItem from="1569491130099" duration="2194000" />
+      <workItem from="1569491130099" duration="3336000" />
+      <workItem from="1569499217330" duration="36000" />
+      <workItem from="1569500702585" duration="261000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1569492488022</created>
@@ -130,19 +155,26 @@
       <option name="project" value="LOCAL" />
       <updated>1569492488022</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Zminu 3">
+      <created>1569493645572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569493645572</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2194000" />
+    <option name="totallyTimeSpent" value="3633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.10341151" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.10554371" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32936078" />
@@ -155,6 +187,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -168,29 +201,24 @@
     <MESSAGE value="test" />
     <MESSAGE value="Заповнив сайт" />
     <MESSAGE value="Вніс зміни" />
-    <option name="LAST_COMMIT_MESSAGE" value="Вніс зміни" />
+    <MESSAGE value="Zminu 2" />
+    <MESSAGE value="Zminu 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zminu 3" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/foto/photo-1479243396208-be1751535cdb.jpg" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="113" selection-start-line="14" selection-start-column="113" selection-end-line="14" selection-end-column="113" />
-          <folding>
-            <element signature="e#2196#2201#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="438">
+          <caret line="263" column="101" selection-start-line="263" selection-start-column="101" selection-end-line="263" selection-end-column="101" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/foto/photo-1479243396208-be1751535cdb.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-887">
-          <caret line="208" selection-start-line="208" selection-end-line="208" />
+        <state relative-caret-position="731">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
         </state>
       </provider>
     </entry>
